@@ -1,0 +1,5 @@
+echo "Hello, sexy!"
+alias md="mkdir"
+alias d="date"
+alias hy="history"
+export PS1="xD "
